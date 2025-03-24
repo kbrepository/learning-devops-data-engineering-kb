@@ -77,8 +77,8 @@ Build an **AI-powered chatbot** that analyzes AWS cost trends and suggests optim
 This repository is a learning resource, and I welcome contributions or feedback! Feel free to submit PRs or create discussions.
 
 🔗 **Follow My Blog & YouTube:**
-- Blog: [AWSInkB.com](https://awsinkb.com)
-- YouTube: [Kalpesh Bhangre](https://www.youtube.com/@kbya0223)
+- Blog: [Blogs](https://medium.com/@kalpeshbhangre96)
+- YouTube: [Kalpesh Bhangre](https://www.youtube.com/@kbya0223) *(To be added)*
 
 ---
 ## 📜 License
